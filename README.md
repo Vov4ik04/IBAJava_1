@@ -9,3 +9,4 @@ sdadasdas
 >>>>>>> ce83722becf84576998d789b0c4dea3a211a098d
 
 Alex700712 was here
+Vova was here too
